@@ -1,2 +1,2 @@
-com/example/wordfreq/WordFrequencyAnalyzerTest.class
-com/example/wordfreq/CsvExporterTest.class
+com\example\wordfreq\CsvExporterTest.class
+com\example\wordfreq\WordFrequencyAnalyzerTest.class
